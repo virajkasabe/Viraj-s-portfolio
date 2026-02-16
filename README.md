@@ -28,3 +28,4 @@ Notes
 
 - The design is mobile-first and uses plain CSS. Adjust colors in `src/styles.css` if desired.
 - GitHub links are placeholders (`#`) — replace with real repo URLs.
+"# A" 
