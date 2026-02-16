@@ -53,7 +53,7 @@ function App() {
               <a className="btn" href="#contact">Contact</a>
             </div>
           </div>
-          <PhotoSection src="/profile.jpg" alt="Viraj Kasabe" />
+          <PhotoSection src="/profile.jpg" alt="profile" />
         </div>
       </header>
 
